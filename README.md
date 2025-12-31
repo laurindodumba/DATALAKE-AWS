@@ -63,10 +63,11 @@ Usando dados do diretório de identificações de contas Transacionais - DICT  q
 * Padronização de tipos
 * Tratamento de valores nulos
 
-### Gold (Analytics)
+### Ambiente na AWS
 
-* Dados agregados
-* Métricas de negócio
+<img width="1632" height="435" alt="image" src="https://github.com/user-attachments/assets/a8360bcd-6c59-49d1-a648-0d15fef4dde9" />
+
+
 
 
 ---
