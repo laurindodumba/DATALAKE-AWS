@@ -49,6 +49,11 @@ Usando dados do diretório de identificações de contas Transacionais - DICT  q
 
 ---
 
+## ARQUITETURA DO PROJETO
+
+<img width="1069" height="691" alt="image" src="https://github.com/user-attachments/assets/4e1e1557-0308-463a-a0b5-73a02292b86a" />
+
+
 ##  Data Lake Layers
 
 ###  Bronze (Raw)
